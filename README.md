@@ -1,4 +1,4 @@
-# Wale Bolajoko - Purple Team Drills: OWASP → MITRE → ISO 27035
+# Wale Bolajoko - META AI Purple Team Drills: OWASP → MITRE → ISO 27035
 
 **Battle-tested at Access Bank SOC1 during 9-subsidiary merger. Last Man of Defense. Evidence over exploits.**
 
