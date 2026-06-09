@@ -1,0 +1,13 @@
+# Code of Conduct - Wale Bolajoko Purple Team Drills
+
+## Core Principle: Test Controls, Not Companies
+
+1. **Lab Only**: All drills run in isolated lab/staging environments I own. No production systems ever.
+2. **Evidence Over Exploits**: I document detection, logs, and mitigations. No attack payloads published.
+3. **Help Defenders**: This repo exists to make SOCs stronger, not to teach attacks.
+4. **ISO 27035 Aligned**: Every drill follows incident management lifecycle.
+5. **Zero Tolerance**: If you use this to attack systems without permission, you’re not Purple Team. You’re banned from my network.
+
+**Remember**: Last Man of Defense means I protect people AND data. Ethics first.
+
+Last updated: April 2026
